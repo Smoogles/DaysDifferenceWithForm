@@ -1,0 +1,17 @@
+C:\Code\Learning\DaysDifferenceInCalendar\DaysDifferenceCalendar\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.exe
+C:\Code\Learning\DaysDifferenceInCalendar\DaysDifferenceCalendar\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.deps.json
+C:\Code\Learning\DaysDifferenceInCalendar\DaysDifferenceCalendar\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.runtimeconfig.json
+C:\Code\Learning\DaysDifferenceInCalendar\DaysDifferenceCalendar\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.dll
+C:\Code\Learning\DaysDifferenceInCalendar\DaysDifferenceCalendar\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.pdb
+C:\Code\Learning\DaysDifferenceInCalendar\DaysDifferenceCalendar\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.AssemblyReference.cache
+C:\Code\Learning\DaysDifferenceInCalendar\DaysDifferenceCalendar\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Form1.resources
+C:\Code\Learning\DaysDifferenceInCalendar\DaysDifferenceCalendar\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+C:\Code\Learning\DaysDifferenceInCalendar\DaysDifferenceCalendar\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Code\Learning\DaysDifferenceInCalendar\DaysDifferenceCalendar\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+C:\Code\Learning\DaysDifferenceInCalendar\DaysDifferenceCalendar\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfo.cs
+C:\Code\Learning\DaysDifferenceInCalendar\DaysDifferenceCalendar\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+C:\Code\Learning\DaysDifferenceInCalendar\DaysDifferenceCalendar\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.dll
+C:\Code\Learning\DaysDifferenceInCalendar\DaysDifferenceCalendar\WinFormsApp1\obj\Debug\net6.0-windows\refint\WinFormsApp1.dll
+C:\Code\Learning\DaysDifferenceInCalendar\DaysDifferenceCalendar\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.pdb
+C:\Code\Learning\DaysDifferenceInCalendar\DaysDifferenceCalendar\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.genruntimeconfig.cache
+C:\Code\Learning\DaysDifferenceInCalendar\DaysDifferenceCalendar\WinFormsApp1\obj\Debug\net6.0-windows\ref\WinFormsApp1.dll
